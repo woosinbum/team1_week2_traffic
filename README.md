@@ -9,11 +9,11 @@ LSTM으로 해당 문제를 해결해보려고 노력해보았습니다. 처음 
 시간별이 아닌 하루치 데이터로도 학습시켜보고 도로의 특성을 모델이 모르고 있을 수도 있다는 카이스트 튜터님의 말에
 도로별 특성을 kmeans cluastering으로 cluster도 하여 LSTM모델에 돌려보았지만 어떻게 하든 LSTM 모델은 성능이 나오지 않았습니다.
 ## 파일
-clustering 파일은 도로별 데이터 분류를 위해 작성한 코드입니다 /n
-traffic_per_day 파일은 시간별 교통량이 아닌 하루치 교통량을 예측해보기 위해 작성한 코드입니다 /n
-traffic_baseline_cluster 파일은 클러스터를 적용한 데이터 학습을 위해 작성한 코드입니다 /n
-darts_tft_model 은 darts라이브러리에서 tft모델을 사용해보기 위한 코드입니다. /n
-team1_nbeats 파일은 최종적으로 팀이 제출한 코드입니다.
+clustering 파일은 도로별 데이터 분류를 위해 작성한 코드입니다.    
+traffic_per_day 파일은 시간별 교통량이 아닌 하루치 교통량을 예측해보기 위해 작성한 코드입니다.    
+traffic_baseline_cluster 파일은 클러스터를 적용한 데이터 학습을 위해 작성한 코드입니다.  
+darts_tft_model 은 darts라이브러리에서 tft모델을 사용해보기 위한 코드입니다.  
+team1_nbeats 파일은 최종적으로 팀이 제출한 코드입니다.  
 ## 모델
 
 팀원분들과 회의를 했을 때 공통적으로 LSTM모델은 성능이 잘 나오지 않는다는 의견이 있었고 prophet이나 darts의 다른모델을 썼을 때
