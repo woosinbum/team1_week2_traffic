@@ -1,4 +1,6 @@
 # week2-traffic
+## 순위
+<img width="642" alt="캡처" src="https://user-images.githubusercontent.com/82801470/156574834-2afe8f5b-d3f7-435a-883a-f8465b6a53ef.PNG">
 
 ## 특정기간의 도로 데이터를 바탕으로 7주일간의 도로교통량 예측
 시계열 데이터에서 LSTM이 기존 RNN의 gradient vanishing 문제를 해결하고 교과서적인 모델이라고 배워서 
