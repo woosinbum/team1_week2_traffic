@@ -1,5 +1,6 @@
 # week2-traffic
 ## 순위
+3등
 <img width="642" alt="캡처" src="https://user-images.githubusercontent.com/82801470/156574834-2afe8f5b-d3f7-435a-883a-f8465b6a53ef.PNG">
 
 ## 특정기간의 도로 데이터를 바탕으로 7주일간의 도로교통량 예측
